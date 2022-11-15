@@ -1,0 +1,32 @@
+Name : Amit Sureshrao Mulikar
+PRN no. : 220343420015
+
+
+
+
+Problem Statement :- Using National Highways, find shortest distance path between Mumbai and Pune
+
+Solution :-
+
+In this program I followed following steps 
+
+1. I have calculated distance between Mumbai to Pune by various roads.
+2. I marks various places between them and made them as vertices.
+3. I made a adjancy matrix table and then I implemented a Dijkstra's algorithm.
+4. I get to know that in that various routes which is shortest between them
+5. I define path and distance of the shortest distance
+
+
+bibliography:- 
+
+
+books -
+Data Structures and Algorithms in Java - Michael T. Goodrich
+Data Abstraction & Problem Solving with JAVA by WALLS AND MIRRORS
+
+Websites -
+
+www.google.com
+www.geeksforgeeks.org
+www.github.com
+www.javatpoint.com
